@@ -1,0 +1,17 @@
+{
+  "name": "api-noframework",
+  "version": "1.0.0",
+  "description": "api rest without express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seliasbe",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "uuid": "^8.3.1"
+  }
+}
